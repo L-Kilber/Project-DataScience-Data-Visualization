@@ -2,8 +2,9 @@
 
 # Introdução
 ## Este projeto investigará se existe a correlação entre o potencial econômico de um país e a expectativa de vida de seus cidadãos.
-Os objetivos são preparar os dados, seguidos da análise com gráficos e buscar explicar os achados do estudo.
-Aqui estão algumas perguntas que este projeto buscará responder:
+## Os objetivos são preparar os dados, seguidos da análise com gráficos e buscar explicar os achados do estudo.
+
+## Aqui estão algumas perguntas que este projeto buscará responder:
 
 ### A expectativa de vida aumentou ao longo do tempo nas seis nações?
 ### O PIB aumentou ao longo do tempo nas seis nações?

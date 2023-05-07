@@ -14,3 +14,8 @@
 ### Fontes:
  - PIB: Dados das contas nacionais do Banco Mundial e arquivos de dados das Contas Nacionais da OCDE.
  - Expectativa de vida Fonte de dados: Organização Mundial da Saúde
+
+### Ferramentas e bibliotecas utilizadas:
+ - Pandas
+ - Seaborn
+ - Matplotlib

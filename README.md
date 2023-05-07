@@ -1,4 +1,4 @@
-# Project-DataScience-Data-Visualization
+# Project-DataScience-PIB
 
 ### Este projeto investigará se existe a correlação entre o potencial econômico de um país e a expectativa de vida de seus cidadãos.
 
